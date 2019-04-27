@@ -1,0 +1,54 @@
+
+
+@font-face {
+  font-family: 'myFont';
+  src: url('SuisseBPIntl-Regular.otf')format("truetype");
+}
+@font-face {
+  font-family: 'myFont-bold';
+  src: url('SuisseIntl-Bold.otf')format("truetype");
+}
+img{
+  padding-top: 5%;
+
+}
+
+p{
+font-family: 'myFont';
+letter-spacing: 0.9px;
+line-height: 22px;
+text-align: justify;
+ margin-bottom:2%;
+ color: black;
+}
+h1 {
+    font-size: 7.5px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    font-family: 'Playfair Display';
+}
+body{
+  width:750px;
+  height:auto;
+  margin-left:20%;
+  margin-bottom:10%;
+
+color: black;
+}
+
+h3{
+font-size: 25px;
+font-family: 'myFont-bold';
+letter-spacing: 0.2px;
+margin-top: 15%;
+margin-bottom:10px;
+line-height: 65px;
+color: red;
+}
+p {
+  font-size: 18px;
+  color: red;
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: justify;
+}
